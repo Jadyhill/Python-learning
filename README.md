@@ -12,11 +12,11 @@ The men who wanna reach the point of the mountain, have three things need done
   - review myself everyday
   - keep a greatful heart
   
+<div align = center><img width="150" height="150" src="http://oyrqaw6tr.bkt.clouddn.com/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%9C%A3%E8%AF%9E%E8%8A%82.png"></div>
 
-<img scr="http://oyrqaw6tr.bkt.clouddn.com/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%9C%A3%E8%AF%9E%E8%8A%82.png" width = "150" height = "150" alt = "spongebaby" align= center>
-
-![Image of sponchbaby](http://oyrqaw6tr.bkt.clouddn.com/%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E5%9C%A3%E8%AF%9E%E8%8A%82.png)   
-
+<div align = center> spongebaby</div>
+<br />
+<br />
 
 # A Gentel Men
 
