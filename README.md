@@ -38,7 +38,7 @@ elif:
 
 you may say hello to : Hey @jady -loveyou
 the most cool thing i like to do is to do list 
- - [x] This a  cool thing
- - [ ] i agree with you
+ - [x] This is a  cool thing.
+ - [ ] i cannot agree with you more!
  
  Have a nice day!
