@@ -23,10 +23,10 @@ sometimes, maybe you will find the life is so hard that you can not find the fin
 
 ### If you realy do not like listensing to those words:
  > i love you 
- > fro the first time I met you
+ > from the first time I met you
  > - jeff wang
 
-of couse emoji!  
+of course emoji!  
 
 ```javascript
 if i>0:
@@ -39,4 +39,6 @@ elif:
 you may say hello to : Hey @jady -loveyou
 the most cool thing i like to do is to do list 
  - [x] This a  cool thing
- - [] i agree with you
+ - [ ] i agree with you
+ 
+ Have a nice day!
