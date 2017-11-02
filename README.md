@@ -36,7 +36,7 @@ elif:
 ```
 
 
-you may say hello to : Hey @jady -loveyou
+you may say hello to : Hey @jadyhill -loveyou
 the most cool thing i like to do is to do list 
  - [x] This is a  cool thing.
  - [ ] i cannot agree with you more!
