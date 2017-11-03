@@ -1,4 +1,4 @@
-# 关于Python的迭代对象、迭代器和生成器
+#关于Python的迭代对象、迭代器和生成器
 在了解Python的数据结构时，容器（`container`）、可迭代对象（`iterable`）,迭代器（`iterator`）、生成器（`generator`）、列表（`list`）、集合（`set`）和字典推导式（`dict comprehension`）众多概念餐咋在一起的时候，很难分清楚其中的概念。那么这篇文章，就是问了分清这些概念而写的。
 
 ![relationships](http://oyrqaw6tr.bkt.clouddn.com/relationships.png)
