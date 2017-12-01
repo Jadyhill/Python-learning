@@ -1,6 +1,6 @@
 
  <font color=#a65bcb size=4>前言</font>
- ![树状图] (http://oyrqaw6tr.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%9B%BE%E8%A1%A8.bmp)  
+  [树状图]!(http://oyrqaw6tr.bkt.clouddn.com/%E6%95%B0%E6%8D%AE%E5%9B%BE%E8%A1%A8.bmp)  
 
 
 
